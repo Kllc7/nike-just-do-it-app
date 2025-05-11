@@ -51,6 +51,6 @@ There are no additional backend dependencies, as the current setup is purely fro
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or contributions, please reach out to [your-email@example.com].
+For any inquiries or contributions, please reach out to khalilchahi191919@gmail.com
 ```
 This comprehensive README.md includes all necessary sections detailing the Nike web application project, providing a clear guide for setup and usage.
