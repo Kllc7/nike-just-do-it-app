@@ -11,7 +11,7 @@ To set up and run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nike-just-do-it.git
+   git clone https://github.com/kllc7/nike-just-do-it.git
    cd nike-just-do-it
    ```
 
@@ -48,7 +48,7 @@ There are no additional backend dependencies, as the current setup is purely fro
 - **index.html**: The main HTML file that maintains the structure of the web application, includes header, hero, featured collection, login modal, and footer.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the MIT(LICENSE) file for details.
 
 ## Contact
 For any inquiries or contributions, please reach out to khalilchahi191919@gmail.com
